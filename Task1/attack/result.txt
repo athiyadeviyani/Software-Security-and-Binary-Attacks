@@ -1,0 +1,4 @@
+Correct password
+
+You are now authenticated, you deserve a cookie!
+000076147f26a39e223cbb55d212e99250f38c90f8471e8c7122e630e179c95e
