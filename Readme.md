@@ -10,4 +10,4 @@ Run the automarker
 <br>```$    /afs/inf.ed.ac.uk/group/teaching/compsec/cw3/sherlock```
 
 Submit the coursework
-<br>```$    submit cs cw3 ~/cshome-cw3.qcow2
+<br>```$    submit cs cw3 ~/cshome-cw3.qcow2```
